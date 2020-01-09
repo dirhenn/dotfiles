@@ -1,0 +1,305 @@
+Dec 29 00:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 00:40 : config: option 'device' on line 13 was not recognized
+Dec 29 00:40 : update: added /Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3
+Dec 29 00:40 : client: [0] opened from 127.0.0.1:45288
+Dec 29 00:40 : client: [1] opened from 127.0.0.1:45292
+Dec 29 00:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 00:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 00:44 : client: [0] closed
+Dec 29 01:02 : client: [1] closed
+Dec 29 01:24 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Dec 29 14:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 14:04 : config: option 'device' on line 13 was not recognized
+Dec 29 14:04 : client: [0] opened from 127.0.0.1:38494
+Dec 29 14:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 14:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 14:05 : client: [0] closed
+Dec 29 14:06 : client: [1] opened from 127.0.0.1:38498
+Dec 29 17:14 : client: [1] closed
+Dec 29 17:58 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Jan 01 22:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 01 22:16 : config: option 'device' on line 13 was not recognized
+Jan 01 22:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 01 22:16 : client: [0] opened from 127.0.0.1:37880
+Jan 01 22:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 01 23:08 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Jan 02 02:49 : client: [0] closed
+Jan 02 03:45 : client: [1] opened from 127.0.0.1:38866
+Jan 02 03:45 : client: [1] closed
+Jan 02 03:45 : client: [2] opened from 127.0.0.1:38868
+Jan 02 03:45 : client: [3] opened from 127.0.0.1:38872
+Jan 02 03:45 : client: [3] closed
+Jan 02 03:45 : client: [4] opened from 127.0.0.1:38874
+Jan 02 03:46 : client: [4] closed
+Jan 02 03:48 : client: [2] closed
+Jan 02 03:48 : client: [5] opened from 127.0.0.1:38948
+Jan 02 03:51 : client: [5] closed
+Jan 02 03:51 : client: [6] opened from 127.0.0.1:38952
+Jan 02 03:51 : client: [7] opened from 127.0.0.1:38954
+Jan 02 03:51 : client: [7] closed
+Jan 02 03:52 : client: [6] closed
+Jan 02 03:52 : client: [8] opened from 127.0.0.1:38956
+Jan 02 03:52 : client: [9] opened from 127.0.0.1:38958
+Jan 02 03:52 : client: [9] closed
+Jan 02 03:53 : client: [8] closed
+Jan 02 03:53 : client: [10] opened from 127.0.0.1:38960
+Jan 02 03:53 : client: [11] opened from 127.0.0.1:38962
+Jan 02 03:53 : client: [11] closed
+Jan 02 03:53 : client: [10] closed
+Jan 02 03:53 : client: [12] opened from 127.0.0.1:38964
+Jan 02 03:54 : client: [12] closed
+Jan 02 03:54 : client: [13] opened from 127.0.0.1:38966
+Jan 02 03:54 : client: [13] closed
+Jan 02 03:54 : client: [14] opened from 127.0.0.1:38968
+Jan 02 03:55 : client: [14] closed
+Jan 02 03:55 : client: [15] opened from 127.0.0.1:38972
+Jan 02 03:56 : client: [15] closed
+Jan 02 03:56 : client: [16] opened from 127.0.0.1:38974
+Jan 02 03:57 : client: [16] closed
+Jan 02 03:57 : client: [17] opened from 127.0.0.1:38976
+Jan 02 03:57 : client: [17] closed
+Jan 02 03:57 : client: [18] opened from 127.0.0.1:38978
+Jan 02 03:57 : client: [18] closed
+Jan 02 03:57 : client: [19] opened from 127.0.0.1:38980
+Jan 02 03:57 : client: [20] opened from 127.0.0.1:38984
+Jan 02 03:58 : client: [19] closed
+Jan 02 03:58 : client: [21] opened from 127.0.0.1:38994
+Jan 02 04:00 : client: [21] closed
+Jan 02 04:00 : client: [22] opened from 127.0.0.1:38998
+Jan 02 04:00 : client: [22] closed
+Jan 02 04:00 : client: [23] opened from 127.0.0.1:39000
+Jan 02 04:00 : client: [23] closed
+Jan 02 04:00 : client: [24] opened from 127.0.0.1:39004
+Jan 02 04:00 : client: [24] closed
+Jan 02 04:00 : client: [25] opened from 127.0.0.1:39006
+Jan 02 04:01 : client: [25] closed
+Jan 02 04:01 : client: [26] opened from 127.0.0.1:39008
+Jan 02 04:01 : client: [26] closed
+Jan 02 04:01 : client: [27] opened from 127.0.0.1:39010
+Jan 02 04:02 : client: [27] closed
+Jan 02 04:02 : client: [28] opened from 127.0.0.1:39012
+Jan 02 04:02 : client: [28] closed
+Jan 02 04:02 : client: [29] opened from 127.0.0.1:39014
+Jan 02 04:02 : client: [20] closed
+Jan 02 04:02 : client: [30] opened from 127.0.0.1:39016
+Jan 02 04:02 : client: [30] closed
+Jan 02 04:02 : client: [31] opened from 127.0.0.1:39018
+Jan 02 04:02 : client: [31] closed
+Jan 02 04:02 : client: [32] opened from 127.0.0.1:39020
+Jan 02 04:02 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Jan 02 04:02 : client: [32] closed
+Jan 02 04:02 : client: [33] opened from 127.0.0.1:39022
+Jan 02 04:02 : client: [33] closed
+Jan 02 04:03 : client: [34] opened from 127.0.0.1:39024
+Jan 02 04:03 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Jan 02 04:03 : client: [34] closed
+Jan 02 04:06 : client: [35] opened from 127.0.0.1:39030
+Jan 02 04:07 : client: [29] closed
+Jan 02 04:07 : client: [35] closed
+Jan 02 04:07 : client: [36] opened from 127.0.0.1:39032
+Jan 02 04:07 : client: [36] closed
+Jan 02 04:07 : client: [37] opened from 127.0.0.1:39034
+Jan 02 04:07 : client: [37] closed
+Jan 02 04:07 : client: [38] opened from 127.0.0.1:39036
+Jan 02 04:07 : client: [38] closed
+Jan 02 04:07 : client: [39] opened from 127.0.0.1:39038
+Jan 02 04:08 : client: [40] opened from 127.0.0.1:39040
+Jan 02 04:09 : client: [40] closed
+Jan 02 04:09 : client: [41] opened from 127.0.0.1:39042
+Jan 02 04:09 : client: [39] closed
+Jan 02 04:09 : client: [41] closed
+Jan 02 04:09 : client: [42] opened from 127.0.0.1:39044
+Jan 02 04:09 : client: [43] opened from 127.0.0.1:39046
+Jan 02 04:09 : client: [43] closed
+Jan 02 04:09 : client: [42] closed
+Jan 02 04:09 : client: [44] opened from 127.0.0.1:39048
+Jan 02 04:10 : client: [44] closed
+Jan 02 04:10 : client: [45] opened from 127.0.0.1:39050
+Jan 02 04:10 : client: [45] closed
+Jan 02 04:10 : client: [46] opened from 127.0.0.1:39052
+Jan 02 04:10 : client: [46] closed
+Jan 02 04:10 : client: [47] opened from 127.0.0.1:39054
+Jan 02 04:10 : client: [47] closed
+Jan 02 04:10 : client: [48] opened from 127.0.0.1:39056
+Jan 02 04:10 : client: [48] closed
+Jan 02 04:10 : client: [49] opened from 127.0.0.1:39060
+Jan 02 04:10 : client: [49] closed
+Jan 02 04:10 : client: [50] opened from 127.0.0.1:39062
+Jan 02 04:10 : client: [50] closed
+Jan 02 04:10 : client: [51] opened from 127.0.0.1:39064
+Jan 02 04:10 : client: [51] closed
+Jan 02 04:10 : client: [52] opened from 127.0.0.1:39066
+Jan 02 04:11 : client: [52] closed
+Jan 02 04:11 : client: [53] opened from 127.0.0.1:39068
+Jan 02 04:11 : client: [54] opened from 127.0.0.1:39070
+Jan 02 04:11 : client: [55] opened from 127.0.0.1:39074
+Jan 02 04:11 : client: [55] closed
+Jan 02 04:12 : client: [54] closed
+Jan 02 04:12 : client: [53] closed
+Jan 02 04:12 : client: [56] opened from 127.0.0.1:39076
+Jan 02 04:12 : client: [56] closed
+Jan 02 04:12 : client: [57] opened from 127.0.0.1:39078
+Jan 02 04:12 : client: [57] closed
+Jan 02 04:12 : client: [58] opened from 127.0.0.1:39080
+Jan 02 04:12 : client: [58] closed
+Jan 02 04:12 : client: [59] opened from 127.0.0.1:39082
+Jan 02 04:12 : client: [60] opened from 127.0.0.1:39084
+Jan 02 04:12 : client: [60] closed
+Jan 02 04:13 : client: [61] opened from 127.0.0.1:39086
+Jan 02 04:13 : client: [61] closed
+Jan 02 04:14 : client: [59] closed
+Jan 02 04:14 : client: [62] opened from 127.0.0.1:39088
+Jan 02 04:14 : client: [62] closed
+Jan 02 04:14 : client: [63] opened from 127.0.0.1:39090
+Jan 02 04:15 : client: [64] opened from 127.0.0.1:39168
+Jan 02 04:15 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Jan 02 04:15 : client: [64] closed
+Jan 02 04:16 : client: [65] opened from 127.0.0.1:39170
+Jan 02 04:16 : client: [65] closed
+Jan 02 04:17 : client: [63] closed
+Jan 02 04:17 : client: [66] opened from 127.0.0.1:39232
+Jan 02 04:17 : client: [66] closed
+Jan 02 04:17 : client: [67] opened from 127.0.0.1:39234
+Jan 02 04:17 : client: [67] closed
+Jan 02 04:17 : client: [68] opened from 127.0.0.1:39236
+Jan 02 04:18 : client: [68] closed
+Jan 02 04:18 : client: [69] opened from 127.0.0.1:39238
+Jan 02 04:18 : client: [69] closed
+Jan 02 04:18 : client: [70] opened from 127.0.0.1:39240
+Jan 02 04:18 : client: [70] closed
+Jan 02 04:18 : client: [71] opened from 127.0.0.1:39242
+Jan 02 04:18 : client: [71] closed
+Jan 02 04:18 : client: [72] opened from 127.0.0.1:39244
+Jan 02 04:18 : client: [72] closed
+Jan 02 04:18 : client: [73] opened from 127.0.0.1:39246
+Jan 02 04:18 : client: [73] closed
+Jan 02 04:18 : client: [74] opened from 127.0.0.1:39248
+Jan 02 04:20 : client: [74] closed
+Jan 02 04:20 : client: [75] opened from 127.0.0.1:39252
+Jan 02 04:25 : client: [75] closed
+Jan 02 04:25 : client: [76] opened from 127.0.0.1:39296
+Jan 02 04:26 : client: [76] closed
+Jan 02 04:26 : client: [77] opened from 127.0.0.1:39298
+Jan 02 04:26 : client: [77] closed
+Jan 02 04:26 : client: [78] opened from 127.0.0.1:39300
+Jan 02 04:26 : client: [78] closed
+Jan 02 04:26 : client: [79] opened from 127.0.0.1:39302
+Jan 02 04:27 : client: [79] closed
+Jan 02 04:27 : client: [80] opened from 127.0.0.1:39304
+Jan 02 04:28 : client: [80] closed
+Jan 02 04:28 : client: [81] opened from 127.0.0.1:39306
+Jan 02 04:28 : client: [81] closed
+Jan 02 04:28 : client: [82] opened from 127.0.0.1:39308
+Jan 02 04:28 : client: [82] closed
+Jan 02 04:28 : client: [83] opened from 127.0.0.1:39310
+Jan 02 04:28 : client: [83] closed
+Jan 02 04:28 : client: [84] opened from 127.0.0.1:39316
+Jan 02 04:28 : client: [84] closed
+Jan 02 04:28 : client: [85] opened from 127.0.0.1:39318
+Jan 02 04:29 : client: [85] closed
+Jan 02 04:29 : client: [86] opened from 127.0.0.1:39320
+Jan 02 04:29 : client: [86] closed
+Jan 02 04:29 : client: [87] opened from 127.0.0.1:39322
+Jan 02 04:30 : client: [87] closed
+Jan 02 04:30 : client: [88] opened from 127.0.0.1:39324
+Jan 02 04:34 : client: [88] closed
+Jan 02 04:34 : client: [89] opened from 127.0.0.1:39408
+Jan 02 04:34 : client: [89] closed
+Jan 02 04:34 : client: [90] opened from 127.0.0.1:39410
+Jan 02 04:35 : client: [90] closed
+Jan 02 04:35 : client: [91] opened from 127.0.0.1:39414
+Jan 02 04:36 : client: [91] closed
+Jan 02 04:36 : client: [92] opened from 127.0.0.1:39416
+Jan 02 04:36 : client: [92] closed
+Jan 02 04:36 : client: [93] opened from 127.0.0.1:39418
+Jan 02 04:36 : client: [93] closed
+Jan 02 04:36 : client: [94] opened from 127.0.0.1:39420
+Jan 02 04:36 : client: [94] closed
+Jan 02 04:36 : client: [95] opened from 127.0.0.1:39422
+Jan 02 04:36 : client: [95] closed
+Jan 02 04:36 : client: [96] opened from 127.0.0.1:39424
+Jan 02 04:37 : client: [96] closed
+Jan 02 04:37 : client: [97] opened from 127.0.0.1:39426
+Jan 02 04:37 : client: [97] closed
+Jan 02 04:37 : client: [98] opened from 127.0.0.1:39428
+Jan 02 04:37 : client: [98] closed
+Jan 02 04:37 : client: [99] opened from 127.0.0.1:39444
+Jan 02 04:37 : client: [99] closed
+Jan 02 04:37 : client: [100] opened from 127.0.0.1:39446
+Jan 02 04:38 : client: [100] closed
+Jan 02 04:38 : client: [101] opened from 127.0.0.1:39448
+Jan 02 04:38 : client: [101] closed
+Jan 02 04:38 : client: [102] opened from 127.0.0.1:39450
+Jan 02 04:38 : client: [103] opened from 127.0.0.1:39452
+Jan 02 04:38 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Jan 02 04:38 : client: [103] closed
+Jan 02 04:39 : client: [104] opened from 127.0.0.1:39456
+Jan 02 04:42 : client: [102] closed
+Jan 02 04:42 : client: [104] closed
+Jan 02 04:43 : client: [105] opened from 127.0.0.1:39656
+Jan 02 04:44 : client: [105] closed
+Jan 02 04:44 : client: [106] opened from 127.0.0.1:39676
+Jan 02 04:44 : client: [106] closed
+Jan 02 04:44 : client: [107] opened from 127.0.0.1:39678
+Jan 02 04:46 : client: [108] opened from 127.0.0.1:39750
+Jan 02 04:46 : client: [108] closed
+Jan 02 04:46 : client: [109] opened from 127.0.0.1:39752
+Jan 02 04:46 : client: [109] closed
+Jan 02 04:47 : client: [107] closed
+Jan 02 04:47 : client: [110] opened from 127.0.0.1:39756
+Jan 02 04:48 : client: [110] closed
+Jan 02 04:48 : client: [111] opened from 127.0.0.1:39762
+Jan 02 04:49 : client: [111] closed
+Jan 02 04:49 : client: [112] opened from 127.0.0.1:39768
+Jan 02 04:49 : client: [112] closed
+Jan 02 04:50 : client: [113] opened from 127.0.0.1:39774
+Jan 02 04:50 : client: [113] closed
+Jan 02 04:50 : client: [114] opened from 127.0.0.1:39778
+Jan 02 04:50 : client: [114] closed
+Jan 02 04:50 : client: [115] opened from 127.0.0.1:39780
+Jan 02 05:08 : client: [116] opened from 127.0.0.1:40046
+Jan 02 05:08 : client: [116] closed
+Jan 02 05:09 : client: [117] opened from 127.0.0.1:40050
+Jan 02 05:09 : client: [117] closed
+Jan 02 05:20 : client: [118] opened from 127.0.0.1:40060
+Jan 02 05:20 : client: [118] closed
+Jan 02 05:22 : client: [119] opened from 127.0.0.1:40064
+Jan 02 05:28 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Jan 02 05:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 05:28 : config: option 'device' on line 13 was not recognized
+Jan 02 05:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 05:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 05:28 : client: [0] opened from 127.0.0.1:40140
+Jan 02 05:28 : client: [1] opened from 127.0.0.1:40142
+Jan 02 05:28 : client: [2] opened from 127.0.0.1:40146
+Jan 02 05:28 : client: [2] closed
+Jan 02 05:30 : client: [0] closed
+Jan 02 05:41 : client: [3] opened from 127.0.0.1:40376
+Jan 02 05:54 : client: [3] closed
+Jan 02 05:54 : client: [4] opened from 127.0.0.1:40570
+Jan 02 06:01 : client: [4] closed
+Jan 02 06:01 : client: [5] opened from 127.0.0.1:40666
+Jan 02 06:02 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Jan 02 06:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 06:02 : config: option 'device' on line 13 was not recognized
+Jan 02 06:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 06:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 06:02 : config: option 'device' on line 13 was not recognized
+Jan 02 06:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 06:04 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Jan 02 06:04 : exception: Failed to commit /home/yoshida/.mpd/mpdstate: File exists
+Jan 02 06:04 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Jan 02 06:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 06:04 : config: option 'device' on line 13 was not recognized
+Jan 02 06:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 06:04 : client: [0] opened from 127.0.0.1:41076
+Jan 02 06:05 : client: [1] opened from 127.0.0.1:41080
+Jan 02 06:05 : client: [1] closed
+Jan 02 06:07 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Jan 02 06:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 06:09 : config: option 'device' on line 13 was not recognized
+Jan 02 06:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 06:09 : client: [0] opened from 127.0.0.1:41224
+Jan 02 06:09 : client: [1] opened from 127.0.0.1:41228
+Jan 02 06:09 : player: played "Trap  Deep Mix 🅽🅴🆆 2018 [ Best of Trap Bass Music ]  🍁.mp3"
+Jan 02 06:14 : client: [1] closed
